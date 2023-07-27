@@ -1,0 +1,22 @@
+nav ul li a{
+    display: inline-block; 
+    padding: 5px 10px;
+    background-color: aquamarine;
+    color: brown;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+nav ul li{
+    display: inline-block;
+    list-style: none;
+}
+
+
+
+section ol li{
+    list-style-type: lower-roman;
+}
+section ul li{
+    list-style-type:  square ;
+}
