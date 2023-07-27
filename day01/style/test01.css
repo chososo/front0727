@@ -12,7 +12,18 @@ nav ul li{
     list-style: none;
 }
 
+div.line{
+    /* width: 700px; */
+    height: 4px;
+    background-color: skyblue;
+}
+#area1{
+    background-color: #E7D9E8;
+}
+#area2{
+    background-color:#F0E8C2 ;
 
+}
 
 section ol li{
     list-style-type: lower-roman;
