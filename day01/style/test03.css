@@ -1,0 +1,27 @@
+#clock{
+    
+    
+    color: darkslategray;
+}
+
+p{
+    text-indent: 10px;
+}
+
+
+table{
+    width: 750px;
+    border-collapse: collapse;
+    
+}
+tr td,tr th{
+    border :1px solid blue;
+
+}
+
+.t{
+    background-color: yellowgreen;
+}
+tr th{
+    background-color: darkcyan;
+}
